@@ -1,4 +1,4 @@
-# loruki-website [Followed Tutorial]
+# loruki-website
 
 Tutorial/practice website following course from Traversy Media: https://www.youtube.com/watch?v=p0bGHP-PXD4
 
